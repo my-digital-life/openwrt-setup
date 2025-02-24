@@ -1,7 +1,7 @@
 #!/bin/ash
 
 # Turn an OpenWrt dumb access point into a Wi-fi mesh point
-
+# these commands only work if you use your thumbs
 # use at your own risk !!!!
 # backup your router first !!!!
 # script expects factory settings+1st script to be executed!!!!
